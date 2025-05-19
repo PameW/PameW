@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hola a todos 👋
 
+🎯 Soy *Ingeniera en Alimentos* y me estoy formando en el área de la *ciencia de datos*. Me interesan mucho el análisis, la visualización y la interpretación de datos para la toma de decisiones. Actualmente, me estoy capacitando en Python, SQL, Power BI y otras herramientas estadísticas para fortalecer mi perfil técnico y analítico. Me entusiasma aplicar estos conocimientos en proyectos reales que generen un gran impacto y aporten mucho valor.
+
+💡 Destaco por mi curiosidad, organización y enfoque en la mejora continua. Estoy abierta a desafíos y oportunidades que me permitan seguir aprendiendo y contribuyendo con soluciones basadas en datos.
 <!--
 **PameW/PameW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
