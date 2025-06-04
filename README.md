@@ -1,4 +1,4 @@
-![Visualización del proyecto](https://drive.google.com/file/d/1CB-If6_zXc6tJ-8QrC1NjcsjPrylywbk/view?usp=sharing)
+![Visualización del proyecto](Portada.png)
 
 ## Hola a todos 👋
 
