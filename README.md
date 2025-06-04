@@ -1,3 +1,5 @@
+![Visualización del proyecto](https://drive.google.com/file/d/1CB-If6_zXc6tJ-8QrC1NjcsjPrylywbk/view?usp=sharing)
+
 ## Hola a todos 👋
 
 🎯 Soy *Ingeniera en Alimentos* y me estoy formando en el área de la *ciencia de datos*. Me interesan mucho el análisis, la visualización y la interpretación de datos para la toma de decisiones. Actualmente, me estoy capacitando en Python, SQL, Power BI y otras herramientas estadísticas para fortalecer mi perfil técnico y analítico. Me entusiasma aplicar estos conocimientos en proyectos reales que generen un gran impacto y aporten mucho valor.
