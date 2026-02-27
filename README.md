@@ -7,5 +7,5 @@
 💡 Destaco por mi curiosidad, organización y enfoque en la mejora continua. Estoy abierta a desafíos y oportunidades que me permitan seguir aprendiendo y contribuyendo con soluciones basadas en datos.
 
 Datos de contacto:
-- [Linkedin](www.linkedin.com/in/pamela-wasserman)
-- [e-mail](pamewasserman@gmail.com)
+- [Linkedin](https://linkedin.com/in/pamela-wasserman)
+- [e-mail](mailto:pamewasserman@gmail.com)
