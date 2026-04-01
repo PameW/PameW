@@ -49,7 +49,7 @@ Natural language processing project analyzing customer reviews to extract sentim
 
 Exploratory analysis and predictive modeling of cybersecurity datasets.
 
-👉 [Project Link](https://github.com/PameW/Proyecto_Final_DS_Cibersecurity))
+👉 [Project Link](https://github.com/PameW/Proyecto_Final_DS_Cibersecurity)
 
 ---
 
